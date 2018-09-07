@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"os"
 	"strings"
-
-	"github.com/astaxie/beego/utils"
+	"github.com/fzpying/beego"
+	"github.com/fzpying/beego/utils"
 )
 
 var env *utils.BeeMap

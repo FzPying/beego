@@ -25,10 +25,10 @@ import (
 
 	"reflect"
 
-	"github.com/astaxie/beego/grace"
-	"github.com/astaxie/beego/logs"
-	"github.com/astaxie/beego/toolbox"
-	"github.com/astaxie/beego/utils"
+	"github.com/fzpying/beego/grace"
+	"github.com/fzpying/beego/logs"
+	"github.com/fzpying/beego/toolbox"
+	"github.com/fzpying/beego/utils"
 )
 
 // BeeAdminApp is the default adminApp used by admin module.

@@ -1,4 +1,4 @@
-github.com/astaxie/beego/*/*:S1012
-github.com/astaxie/beego/*:S1012
-github.com/astaxie/beego/*/*:S1007
-github.com/astaxie/beego/*:S1007
+github.com/fzpying/beego/*/*:S1012
+github.com/fzpying/beego/*:S1012
+github.com/fzpying/beego/*/*:S1007
+github.com/fzpying/beego/*:S1007
